@@ -25,7 +25,7 @@ string public tokenname="YOUR TOKENNAME";
 string public tokenabbrv="YOUR TOKENABV.";
 string public totalsupply=Your total supply;
 ```
-#Authors
+## Authors
 Yash Rai
-#License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
